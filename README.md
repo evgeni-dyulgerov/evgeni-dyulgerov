@@ -14,12 +14,26 @@
   <img src="https://img.shields.io/badge/Dell-laptop-D0D3D4?style=for-the-badge&logo=dell&logoColor=white" />
 </p>
 
-<h2 align="center">About me</h2>
+<h2 align="center">💫 About me</h2>
 <p align="left">
     I am a full stack developer and IT consultant with over 12 years of experience with over 30 projects (web, cloud, mobile, desktop and more). My current skillset includes languages like C#, C++, Python, Javascript, SQL, PHP, Solidity. Throught my career I've been using .NET, Xamarin, Cordova, React, Angular and Node to build varietly of web applications and micro services. I have customized and integrated with solutions like Microsoft Dynamics CRM, SharePoint, Axapta, Navision, QlikView, Jira, Confluence, ServiceNow, Outlook, Excel.
 </p>
 
 <p align="left">I am also exploring the world of AI and mashine learning. Currently I am testing different artificial neural network solutions and other machine learning algorithms, and integrating them with Microsoft Defender and Microsoft Sentinel as part of a PhD research focused on improving cloud network security. More on the results soon :)</p>
+
+👨‍💻 I am a full stack developer and IT consultant with over 12 years of experience with over 30 completed projects (web, cloud, mobile, desktop and more).<br><br>
+
+👯 I am looking to collaborate on exciting projects that require a combination of .NET development and cloud expertise.<br><br>
+
+👨‍🎓 I am actively studying latest software technologies and trends. Currently I am testing different artificial neural network solutions and other machine learning algorithms, and integrating them with Microsoft Defender and Microsoft Sentinel as part of a PhD research focused on improving cloud network security.<br><br>
+
+👨‍🏫 I am contributing to the local developer community, lecturing and leading excersizes. I have lead lectures and shown demos for DEV.BG, SoftUni, OpenFest, ITTour Bulgaria, IEEE and more.<br><br>
+
+✍️ I am writing a book on Azure cybersecurity best practices, and preparing other books and articles focused on AI.<br><br>
+
+💬 Ask me about software development and security best practices, design patterns, or how to create scalable architectures.<br><br>
+
+😆 Fun fact: Machine learning models like Generative Adversarial Networks (GANs) can create art that’s so realistic, it’s hard to tell it wasn’t made by a human! Some AI-generated paintings have even been sold at auction for hundreds of thousands of dollars, like the famous "Portrait of Edmond de Belamy" that sold for $432,500 in 2018.
 
 <hr />
 
@@ -32,8 +46,11 @@
     <th>
         <img src="https://img.shields.io/badge/Team%20Lead-orange?style=for-the-badge" />
     </th>
+      <th>
+        <img src="https://img.shields.io/badge/Consultant-1E8449?style=for-the-badge" />
+    </th>
     <th>
-        <img src="https://img.shields.io/badge/Solution%20Architect-green?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Solution%20Architect-4863A0?style=for-the-badge"/>
     </th>
   </tr>
   <table>
