@@ -15,26 +15,50 @@
 </p>
 
 <h2 align="center">💫 About me</h2>
-<p align="left">
-    I am a full stack developer and IT consultant with over 12 years of experience with over 30 projects (web, cloud, mobile, desktop and more). My current skillset includes languages like C#, C++, Python, Javascript, SQL, PHP, Solidity. Throught my career I've been using .NET, Xamarin, Cordova, React, Angular and Node to build varietly of web applications and micro services. I have customized and integrated with solutions like Microsoft Dynamics CRM, SharePoint, Axapta, Navision, QlikView, Jira, Confluence, ServiceNow, Outlook, Excel.
-</p>
 
-<p align="left">I am also exploring the world of AI and mashine learning. Currently I am testing different artificial neural network solutions and other machine learning algorithms, and integrating them with Microsoft Defender and Microsoft Sentinel as part of a PhD research focused on improving cloud network security. More on the results soon :)</p>
+👨‍💻 I am a full stack developer and IT consultant with over 12 years of experience with over 30 completed projects (web, cloud, mobile, desktop and more).<br>
 
-👨‍💻 I am a full stack developer and IT consultant with over 12 years of experience with over 30 completed projects (web, cloud, mobile, desktop and more).<br><br>
+👯 I am looking to collaborate on exciting projects that require a combination of .NET development and cloud expertise.<br>
 
-👯 I am looking to collaborate on exciting projects that require a combination of .NET development and cloud expertise.<br><br>
+👨‍🎓 I am actively studying latest software technologies and trends. Currently I am testing different artificial neural network solutions and other machine learning algorithms, and integrating them with Microsoft Defender and Microsoft Sentinel as part of a PhD research focused on improving cloud network security.<br>
 
-👨‍🎓 I am actively studying latest software technologies and trends. Currently I am testing different artificial neural network solutions and other machine learning algorithms, and integrating them with Microsoft Defender and Microsoft Sentinel as part of a PhD research focused on improving cloud network security.<br><br>
+👨‍🏫 I am contributing to the local developer community, lecturing and leading exercises. I have lead lectures and shown demos for DEV.BG, SoftUni, OpenFest, ITTour Bulgaria, IEEE and more.<br>
 
-👨‍🏫 I am contributing to the local developer community, lecturing and leading excersizes. I have lead lectures and shown demos for DEV.BG, SoftUni, OpenFest, ITTour Bulgaria, IEEE and more.<br><br>
+✍️ I am writing a book on Azure cybersecurity best practices, and preparing other books and articles focused on AI.<br>
 
-✍️ I am writing a book on Azure cybersecurity best practices, and preparing other books and articles focused on AI.<br><br>
-
-💬 Ask me about software development and security best practices, design patterns, or how to create scalable architectures.<br><br>
+💬 Ask me about software development and security best practices, design patterns, or how to create scalable architectures.<br>
 
 😆 Fun fact: Machine learning models like Generative Adversarial Networks (GANs) can create art that’s so realistic, it’s hard to tell it wasn’t made by a human! Some AI-generated paintings have even been sold at auction for hundreds of thousands of dollars, like the famous "Portrait of Edmond de Belamy" that sold for $432,500 in 2018.
 
+<hr />
+<h2 align="center">🔧 Tech Stack</h2>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=googlecloud&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-323330?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&&logo=kubernetes&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![QlikView](https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 <hr />
 
 <h2 align="center">Roles</h2>
@@ -236,102 +260,5 @@ share with team members and other affected parties.
 - 👨‍💻 **Junior .NET Developer**\
 📆 March 2012 - September 2012\
 📍 **PIAS Business Solutions** - Sofia, Bulgaria
-
-## Skills
-
-**Programming**
-
-#### Backend
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/.NET-512BD4?logo=sharp&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-    </li>
-</ul>
-
-#### Frontend
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
-    </li>
-</ul>
-
-#### Cloud
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/Azure-20232A?logo=googlecloud&logoColor=61DAFB" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
-    </li>
-</ul>
-
-#### DevOps
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/Azure-20232A?logo=googlecloud&logoColor=61DAFB" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes&logoColor=white" />
-    </li>
-</ul>
-
-#### Machine Learning
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
-    </li>
-</ul>
-
-#### Business Solutions
-<ul>
-    <li>
-        <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/QlikView-009848?logo=qlik&logoColor=white" />
-    </li>
-    <li>
-        <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-    </li>
-</ul>
-
-**Operating Systems**
-
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
 
 </details>
