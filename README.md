@@ -11,7 +11,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Windows-5DADE2?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_9_7945HX3D?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" />
 </p>
